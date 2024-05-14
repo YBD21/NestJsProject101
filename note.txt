@@ -1,0 +1,12 @@
+
+Command Line :
+
+1. create module :
+nest g module <ModuleName>
+
+
+
+
+Notes : 
+
+Controlers are responsible for handeling incomming request and sending responed back to the client.
